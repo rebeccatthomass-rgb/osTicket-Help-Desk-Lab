@@ -163,7 +163,11 @@
   - New hire laptop (phone) → Tier 1, **escalated to Tier 2**
  
   - <img width="733" height="549" alt="36" src="https://github.com/user-attachments/assets/57877cef-3a36-4a99-b8f9-738874aeb484" />
-  
+
+  - Resolved tickets through the full ticket lifecycle
+ 
+  - <img width="754" height="368" alt="39" src="https://github.com/user-attachments/assets/b38f08b9-3382-4f1d-9106-ddcc9d1ef5fc" />
+
 - Security practices followed:
   - Verified user identity before account changes
   - Never put passwords in tickets
